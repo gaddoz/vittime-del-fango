@@ -1,5 +1,7 @@
 items:
   - text: Statuto
-    url: "#"
+    url: "/posts/statuto/"
   - text: Notizie
     url: /blog
+  - text: Contatti
+    url: "/posts/contatti/"

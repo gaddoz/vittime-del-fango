@@ -12,16 +12,13 @@ layout: blog
                     {% if post.data.title %}
                         {{ post.data.title }}
                     {% else %}
-                        Untitled
+                        Senza titolo
                     {% endif %}
                 </a>
             </h2>
             <p class="text-base leading-6 text-gray-500 mb-3">
                 <time>
                     {{ post.date | readableDate }}
-                    by
-                    <a>{{ post.data.author }}</a>
-
                 </time>
             </p>
             {% if post.data.description %}
@@ -31,8 +28,8 @@ layout: blog
             {% endif %}
 
             <p>
-                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
-                    Read more →
+                <a href="{{ post.url | url }}" class="text-stone-500 font-bold text-lg">
+                    Leggi l'articolo completo →
                 </a>
             </p>
 
