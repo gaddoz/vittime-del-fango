@@ -1,10 +1,5 @@
----
 items:
-  - text: Menu One
+  - text: Statuto
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Notizie
+    url: /blog
