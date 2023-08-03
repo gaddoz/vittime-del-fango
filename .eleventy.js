@@ -4,6 +4,14 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addShortcode("youtube", (videoURL, title) => {
+    const url = new URL(videoURL);
+    const id = url.searchParams.get("v");
+    return `<iframe class="aspect-video min-w-full" src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube video player${
+      title ? ` for ${title}` : ""
+    }" frameborder="0" allowfullscreen></iframe>`;
+  });
+
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 

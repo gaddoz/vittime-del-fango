@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["post", "featured", "nascosto"]
+        options: ["comunicato-stampa", "rassegna-stampa", "post", "featured", "nascosto", ]
   - label: "Settings"
     name: "settings"
     editor:
