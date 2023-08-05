@@ -8,5 +8,5 @@ tags:
 ---
 **Contatti**
 
-Email: TODO
+Email: <a href="mailto:vittimedelfangoforli@gmail.com">vittimedelfangoforli@gmail.com</a>
 
