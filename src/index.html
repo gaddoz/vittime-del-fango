@@ -17,9 +17,9 @@ path: home
     </strong>
   </h3>
   {% set postslist = collections.featured %}
-  <div class="grid grid-cols-3 mb-2 gap-1 w-3/4">
+  <div class="grid grid-cols-1 lg:grid-cols-3 mb-2 gap-1 w-3/4">
   {% for post in postslist | reverse %}
-    <article class="my-8">
+    <!-- <article class="my-8">
         <h2 class="font-bold text-3xl text-gray-900 mb-2">
             <a href="{{ post.url | url }}">
                 {% if post.data.title %}
@@ -29,7 +29,32 @@ path: home
                 {% endif %}
             </a>
         </h2>
-    </article>
+    </article> -->
+    <article class="my-8 border rounded p-5">
+      <h2 class="font-bold text-3xl text-gray-900 mb-2 min-h-20">
+          <a href="{{ post.url | url }}">
+              {% if post.data.title %}
+                  {{ post.data.title }}
+              {% else %}
+                  Senza titolo
+              {% endif %}
+          </a>
+      </h2>
+      {% if post.data.featured %}
+      <a href="{{ post.url | url }}" title="{{ post.data.title }}">
+        
+        <img alt="{{ post.data.title }}"
+              src="{{ post.data.featured }}" 
+              class="border rounded object-fill h-48 w-96"/>
+      </a>
+      {% endif %}
+
+      <p>
+        <a href="{{ post.url | url }}" class="text-stone-500 font-bold text-lg">
+            Leggi l'articolo completo →
+        </a>
+    </p>
+  </article>
   {% endfor %}
   </div>
 </div>
