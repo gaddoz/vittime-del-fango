@@ -3,8 +3,8 @@ title: Statuto
 description: Statuto comitato unitario vittime del fango
 author: comitato unitario vittime del fango
 date: 2023-08-01T19:33:33.555Z
-tags: 
-    - nascosto
+tags:
+  - nascosto
 ---
 **STATUTO**
 
@@ -72,9 +72,7 @@ Sono Organi del Comitato:
 
 •      il Presidente;
 
-•      Il Vicepresidente;
-
-•      Il Portavoce.
+•      Il Vicepresidente.
 
 **Art. 6 – Composizione e funzione dell'Assemblea dei cittadini promotori e sostenitori**
 
