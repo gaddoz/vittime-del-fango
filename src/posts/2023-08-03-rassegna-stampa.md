@@ -1,5 +1,5 @@
 ---
-title: Rassegna Stampa 3 Agosto 2023
+title: "Rassegna Stampa: 3 Agosto 2023"
 description: In data 2 agosto 2023 in occasione della manifestazione cittadina
 author: comitato unitario vittime del fango
 date: 2023-08-03T19:33:33.555Z

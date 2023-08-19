@@ -1,5 +1,5 @@
 ---
-title: Comunicato Stampa 3 Agosto 2023
+title: "Comunicato Stampa: 03 Agosto 2023"
 description: Nasce il Comitato Unitario Vittime del Fango Forlì 'La piazza degli alluvionati chiede risposte all'amministrazione comunale'
 author: comitato unitario vittime del fango
 date: 2023-08-03T19:33:33.555Z
