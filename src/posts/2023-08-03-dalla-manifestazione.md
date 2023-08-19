@@ -1,6 +1,6 @@
 ---
 title: Video e foto dalla Manifestazione Cittadina 2 Agosto 2023
-description: In data 2 agosto 2023 in occasione della manifestazione cittadina
+description: Raccolta video e foto della Manifestazione Cittadina 2 Agosto 2023
 author: comitato unitario vittime del fango
 date: 2023-08-03T19:33:33.555Z
 tags: 

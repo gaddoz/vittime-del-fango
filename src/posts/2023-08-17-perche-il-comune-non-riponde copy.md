@@ -1,6 +1,6 @@
 ---
 title: "Comunicato Stampa: 'Sollecito risposte alla Lettera aperta delle richieste'"
-description:
+description: In data 17 agosto 2023 è stato inviato il seguente comunicato all'amministrazione comunale per sollecitare la risposta alle richieste inviate in data 5 luglio.
 author: comitato unitario vittime del fango
 date: 2023-08-17T17:00:00.000Z
 tags: 
@@ -9,7 +9,7 @@ tags:
     - comunicato-stampa
 ---
 
-In data 17 agosto 2023, è stato inviato il seguente comunicato a tutte le forze poliche della giunta comunale.
+In data 17 agosto 2023 è stato inviato il seguente comunicato all'amministrazione comunale per sollecitare la risposta alle richieste inviate in data 5 luglio.
 
 ## Oggetto: sollecito risposte alla Lettera aperta delle richieste del Comitato Vittime del Fango dei Romiti (trasformatosi in Comitato Unitario Vittime del Fango di Forlì)
 
