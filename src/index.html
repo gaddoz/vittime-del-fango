@@ -21,7 +21,7 @@ path: home
   {% set postslist = collections.featured %}
   <div class="grid grid-cols-1 lg:grid-cols-3 mb-2 gap-1 w-3/4">
   {% for post in postslist | reverse %}
-    <article class="my-8 border rounded p-5">
+    <article class="my-8 border rounded p-5 flex flex-col">
       <p class="text-right text-base leading-6 font-medium text-gray-500">
         <time> {{ post.data.date | readableDate }}</time>
       </p>
@@ -42,7 +42,9 @@ path: home
               class="border rounded object-fill h-48 w-96"/>
       </a>
       {% endif %}
-
+      <p class="flex flex-wrap mt-auto leading-6 font-medium text-stone-700 mb-2">
+        {{ post.data.description }}
+      </p>
       <p>
         <a href="{{ post.url | url }}" class="text-stone-500 font-bold text-lg">
             Leggi l'articolo completo →
