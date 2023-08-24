@@ -24,3 +24,12 @@ Via Gorizia 240, Forli
 ### Grosscolor (Villanova)
 Viale Bologna 296, Forli 
 (chiedere di Davide)
+
+
+### Seguici sui social
+
+Facebook: <a href="//facebook.com/vittimedelfango" target="_blank" title="Seguici su Facebook">seguici su Facebook</a>
+
+Instagram: <a href="//instagram.com/vittimedelfango" target="_blank" title="Seguici su Instagram">seguici su Instagram</a>
+
+Twitter: <a href="//twitter.com/vittimedelfango" target="_blank" title="Seguici su Twitter">seguici su twitter</a>
