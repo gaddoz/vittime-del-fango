@@ -18,8 +18,9 @@ Email: <a href="mailto:vittimedelfangoforli@gmail.com">vittimedelfangoforli@gmai
 
 E' ancora possibile aderire al Comitato unitario Vittime del Fango Forli, i punti per la raccolta delle firme di adesione sono i seguenti:
 
-### Edicola di Via Gorizia
+### Edicola di Via Gorizia (San Benedetto)
 Via Gorizia 240, Forli
 
-### Grosscolor (chiedere di Davide)
+### Grosscolor (Villanova)
 Viale Bologna 296, Forli 
+(chiedere di Davide)
