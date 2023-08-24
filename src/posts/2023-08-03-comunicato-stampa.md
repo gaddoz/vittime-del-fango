@@ -4,7 +4,6 @@ description: Nasce il Comitato Unitario Vittime del Fango Forlì 'La piazza degl
 author: comitato unitario vittime del fango
 date: 2023-08-03T19:33:33.555Z
 tags: 
-    - featured
     - post
     - comunicato-stampa
 ---
