@@ -6,6 +6,7 @@ date: 2023-08-03T19:33:33.555Z
 tags: 
     - post
     - comunicato-stampa
+    - featured
 ---
 Nasce il Comitato Unitario Vittime del Fango Forlì: "La piazza degli alluvionati chiede risposte all'amministrazione comunale"
 
