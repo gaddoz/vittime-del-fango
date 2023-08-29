@@ -2,7 +2,7 @@
 title: "Comunicazione: sollecito lavori di pulizia e ripristino argini e chiuse sui fiumi Montone e Rabbi/Bidente"
 description: "In data 28 agosto 2023 è stato inviato il seguente comunicato al Commissario Straordinario Gen. Francesco Paolo Figliuolo..."
 author: comitato unitario vittime del fango
-date: 2023-08-17T17:00:00.000Z
+date: 2023-08-28T15:00:00.000Z
 tags: 
     - featured
     - post
