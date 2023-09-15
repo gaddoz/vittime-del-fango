@@ -2,7 +2,7 @@
 title: "Comunicazione: Richiesta Interventi Urgenti Evento temporalesco del 15.09.2023"
 description: "In data 15/09/2023 è stato inviato il seguente comunicato "
 author: comitato unitario vittime del fango
-date: 2023-08-28T15:00:00.000Z
+date: 2023-09-15T18:00:00.000Z
 tags: 
     - featured
     - post
