@@ -9,6 +9,9 @@ tags:
     - rassegna-stampa
 ---
 
+
+<iframe src='https://www.la7.it/embedded/la7?&tid=player&content=502900&title=/piazzapulita/video/emilia-romagna-dopo-il-fango-labbandono-il-reportage-15-09-2023-502900' width='100%' height='360' allowfullscreen frameborder='0'></iframe>
+
 Link: [video la7](https://www.la7.it/piazzapulita/video/emilia-romagna-dopo-il-fango-labbandono-il-reportage-15-09-2023-502900)
 
 
