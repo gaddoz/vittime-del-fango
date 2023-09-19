@@ -6,7 +6,7 @@ description: Durante la visita di inaugurazione del nuovo anno scolastico,
   personalmente incontrare i rappresentanti delle vittime del drammatico evento
   meteo
 author: vittime del fango
-date: 2023-09-18T07:49:27.721Z
+date: 2023-09-18T23:30:00.000Z
 tags:
   - featured
   - post
