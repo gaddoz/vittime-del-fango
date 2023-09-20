@@ -19,3 +19,5 @@ Il Presidente Mattarella incontra il Comitato Unitario Vittime del Fango: "**Non
 [Corriere Romagna](https://www.corriereromagna.it/forli-attesa-per-mattarella-selfie-e-autografi-per-il-pallavolista-giannelli/)
 
 [La Presse](https://www.lapresse.it/politica/2023/09/18/forli-mattarella-in-visita-allistituto-tecnico-accolto-da-applausi/)
+
+[Diogene](https://www.diogene.news/Primo-Piano/3655/il-comitato-vittime-del-fango-incontra.html)
