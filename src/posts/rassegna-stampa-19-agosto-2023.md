@@ -1,5 +1,5 @@
 ---
-title: "Rassegna Stampa: 19 Agosto 2023"
+title: "Rassegna Stampa: 19 Settembre 2023"
 description: 'Il Presidente Mattarella incontra il Comitato Unitario Vittime del
   Fango: "Non ci Dimentichi"'
 author: vittime del fango
