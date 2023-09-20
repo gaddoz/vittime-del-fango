@@ -12,6 +12,8 @@ Il Presidente Mattarella incontra il Comitato Unitario Vittime del Fango: "**Non
 
 ![Il Presidente Mattarella incontra il Comitato Unitario Vittime del Fango](/static/img/c5e227df-bd1b-45d3-9e65-2d70531291bc.jpg "Il Presidente Mattarella incontra il Comitato Unitario Vittime del Fango")
 
+{% youtube "https://www.youtube.com/watch?v=lWdvmtdwLBU?si=DSWKCEcGB9b7TWsj", "Video e foto dalla Manifestazione Cittadina 3 Agosto 2023" %}
+
 [Ansa](http://www.ansa.it/sito/notizie/politica/2023/09/18/mattarella-a-forli-per-lapertura-dellanno-scolastico_32a2eecb-cae8-467b-9ef1-42db1476b6f4.html)
 
 [Rai News](https://www.rainews.it/tgr/emiliaromagna/maratona/2023/09/mattarella-a-forli-per-inaugurare-lanno-scolastico-6444e2d3-a330-42b6-aa2f-cab4bccbb610.html)
