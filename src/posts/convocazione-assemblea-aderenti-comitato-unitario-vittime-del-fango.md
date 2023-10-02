@@ -11,9 +11,9 @@ tags:
   - post
   - comunicato-stampa
 ---
-Il Comitato Unitario vittime del fango di Forlì dopo aver completato gli incontri istituzionali, convoca gli aderenti per raccontare il percorso fatto, fare il punto della situazione e programmare le attività future.
+Il **Comitato Unitario Vittime del Fango di Forlì** dopo aver completato gli incontri istituzionali, **convoca** gli aderenti per raccontare il percorso fatto, fare il punto della situazione e programmare le attività future.
 
-Il presidente Alessandra Bucchi rende quindi noto che il 5 ottobre alle 20,30 presso il circolo Arci della Cava in Viale Bologna 250 è convocata l’assemblea degli iscritti con il seguente ODG:
+Il presidente Alessandra Bucchi rende quindi noto che il **5 ottobre alle 20,30** presso il **circolo Arci della Cava in Viale Bologna 250** è convocata l’assemblea degli iscritti con il seguente ODG:
 
 1. Comunicazioni su attività sin qui svolte
 2. Programmazione attività future
@@ -25,8 +25,6 @@ Cordiali saluti
 Avv. Alessandra Bucchi
 
 Presidente Comitato Unitario Vittime del Fango di Forlì
-
-
 
 ![](/static/img/ricostruzione-equa-partecipata-trasparente.jpeg)
 
