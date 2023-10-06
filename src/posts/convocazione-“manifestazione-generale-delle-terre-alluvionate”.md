@@ -1,5 +1,5 @@
 ---
-title: CONVOCAZIONE “MANIFESTAZIONE GENERALE DELLE TERRE ALLUVIONATE”
+title: CONVOCAZIONE MANIFESTAZIONE GENERALE DELLE TERRE ALLUVIONATE
 description: Sabato 14 ottobre alle ore 10.00 in Piazzale della Vittoria partirà
   il corteo diretto verso Piazza Ordelaffi.
 author: vittime del fango
