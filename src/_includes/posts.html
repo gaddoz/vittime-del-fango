@@ -17,19 +17,29 @@ prism: true
         <div>
             <h4>Allegati</h4>
             {% if manual_pdf %}
-            <a href="{{ manual_pdf }}">Allegato 1</a>
+            <a href="{{ manual_pdf }}">
+                {{ manual_pdf.replaceAll('/static/img/','').replaceAll('.pdf','').replaceAll('.doc','').replaceAll('-',' ',false).replaceAll('.',' ') }}
+            </a>
             {% endif %}
             {% if manual_pdf2 %}
-            <a href="{{ manual_pdf2 }}">Allegato 2</a>
+            <a href="{{ manual_pdf2 }}">
+                {{ manual_pdf2.replaceAll('/static/img/','').replaceAll('.pdf','').replaceAll('.doc','').replaceAll('-',' ',false).replaceAll('.',' ') }}
+            </a>
             {% endif %}
             {% if manual_pdf3 %}
-            <a href="{{ manual_pdf3 }}">Allegato 3</a>
+            <a href="{{ manual_pdf3 }}">
+                {{ manual_pdf3.replaceAll('/static/img/','').replaceAll('.pdf','').replaceAll('.doc','').replaceAll('-',' ',false).replaceAll('.',' ') }}
+            </a>
             {% endif %}
             {% if manual_pdf4 %}
-            <a href="{{ manual_pdf4 }}">Allegato 4</a>
+            <a href="{{ manual_pdf4 }}">
+                {{ manual_pdf4.replaceAll('/static/img/','').replaceAll('.pdf','').replaceAll('.doc','').replaceAll('-',' ',false).replaceAll('.',' ') }}
+            </a>
             {% endif %}
             {% if manual_pdf5 %}
-            <a href="{{ manual_pdf5 }}">Allegato 5</a>
+            <a href="{{ manual_pdf5 }}">
+                {{ manual_pdf5.replaceAll('/static/img/','').replaceAll('.pdf','').replaceAll('.doc','').replaceAll('-',' ',false).replaceAll('.',' ') }}
+            </a>
             {% endif %}
         </div>
         {% endif %}
