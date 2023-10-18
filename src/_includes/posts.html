@@ -13,10 +13,26 @@ prism: true
     <article class="prose lg:prose-xl my-4 mx-auto">
         {{ content | safe }}
 
+        {% if manual_pdf or  manual_pdf2 or manual_pdf3 or manual_pdf4 or manual_pdf5 %}
         <div>
             <h4>Allegati</h4>
-            <a href="{{ manual_pdf }}">Allegato</a>
+            {% if manual_pdf %}
+            <a href="{{ manual_pdf }}">Allegato 1</a>
+            {% endif %}
+            {% if manual_pdf2 %}
+            <a href="{{ manual_pdf2 }}">Allegato 2</a>
+            {% endif %}
+            {% if manual_pdf3 %}
+            <a href="{{ manual_pdf3 }}">Allegato 3</a>
+            {% endif %}
+            {% if manual_pdf4 %}
+            <a href="{{ manual_pdf4 }}">Allegato 4</a>
+            {% endif %}
+            {% if manual_pdf5 %}
+            <a href="{{ manual_pdf5 }}">Allegato 5</a>
+            {% endif %}
         </div>
+        {% endif %}
     </article>
 
 </div>
