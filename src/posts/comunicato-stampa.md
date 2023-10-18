@@ -1,5 +1,5 @@
 ---
-title: COMUNICATO STAMPA
+title: Ripartizione donazione in capo agli alluvionati
 description: Ripartizione donazione in capo agli alluvionati
 author: "Aride Missiroli "
 date: 2023-10-18T08:31:54.928Z
