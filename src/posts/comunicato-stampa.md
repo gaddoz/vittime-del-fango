@@ -4,7 +4,7 @@ description: Ripartizione donazione in capo agli alluvionati
 author: "Aride Missiroli "
 date: 2023-10-18T08:31:54.928Z
 manual_pdf: /static/img/bozza-autocertificazione-17-sett.pdf
-manual_pdf2: /static/img/ricostruzione-equa-partecipata-trasparente.jpeg
+manual_pdf2: /static/img/lettera-al-sindaco-x-incontro-20-settembre-2023.pdf
 tags:
   - post
   - featured
