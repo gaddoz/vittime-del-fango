@@ -15,9 +15,3 @@ tags:
   - featured
 ---
 # Alluvione. Il presidente Bonaccini incontra in Regione una ventina di Comitati di cittadini dei territori colpiti: “Vogliamo condividere ogni passo della ricostruzione, ribadito il massimo impegno affinché sia rimborsato il 100% dei danni. Pronti a rivederci a cadenza regolare e già prima della fine dell’anno.
-
-
-
-
-
-https://notizie.regione.emilia-romagna.it/comunicati/2023/ottobre/alluvione-il-presidente-bonaccini-incontra-in-regione-una-ventina-di-comitati-di-cittadini-dei-territori-colpiti-201cvogliamo-condividere-ogni-passo-della-ricostruzione-ribadito-il-massimo-impegno-affinche-sia-rimborsato-il-100-dei-danni-pronti-a
