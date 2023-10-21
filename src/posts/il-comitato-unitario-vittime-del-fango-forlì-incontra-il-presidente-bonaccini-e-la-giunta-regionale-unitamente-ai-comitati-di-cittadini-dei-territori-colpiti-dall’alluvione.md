@@ -1,5 +1,5 @@
 ---
-title: Il Comitato Unitario Vittime del fango Forlì incontra il presidente
+title: Ieri il Comitato Unitario Vittime del fango Forlì incontra il presidente
   Bonaccini e la Giunta regionale, unitamente in agli altri Comitati di
   cittadini dei territori colpiti dall’alluvione
 description: Gli argomenti trattati, dalla messa in sicurezza delle aree a
