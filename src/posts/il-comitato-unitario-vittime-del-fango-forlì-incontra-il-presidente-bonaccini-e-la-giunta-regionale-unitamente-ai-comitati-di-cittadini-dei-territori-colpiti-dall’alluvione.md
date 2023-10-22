@@ -7,7 +7,7 @@ description: Gli argomenti trattati, dalla messa in sicurezza delle aree a
   e gli assessori Colla, Calvano, Corsini e Mammi
 author: "Aride Missiroli "
 date: 2023-10-21T19:09:37.980Z
-manual_pdf: https://notizie.regione.emilia-romagna.it/comunicati/2023/ottobre/alluvione-il-presidente-bonaccini-incontra-in-regione-una-ventina-di-comitati-di-cittadini-dei-territori-colpiti-201cvogliamo-condividere-ogni-passo-della-ricostruzione-ribadito-il-massimo-impegno-affinche-sia-rimborsato-il-100-dei-danni-pronti-a/incontro_comitati_alluvionati_gli_assessori.jpeg
+manual_pdf: ""
 manual_pdf2: null
 manual_pdf5: null
 tags:
