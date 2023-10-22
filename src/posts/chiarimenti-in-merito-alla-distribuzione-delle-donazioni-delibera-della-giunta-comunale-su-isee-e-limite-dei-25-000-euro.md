@@ -11,6 +11,6 @@ tags:
 ---
 In merito alle polemiche sorte in occasione della delibera della Giunta circa la **distribuzione delle donazioni** ci vediamo costretti a ribadire nuovamente che ***la proposta da noi avanzata non prevedeva il limite ISEE di 25.000,00 euro***. Quando è uscita la delibera abbiamo ritenuto che fosse condivisibile aiutare le persone alluvionate in maggiore difficoltà e che non potrebbero risollevarsi da sole. 
 
-*Quindi, questa affermazione è stata fatta successivamente alla emanazione della* delibera *di giunta, per mera solidarietà a chi ha maggiori necessità.*                               
+*Quindi, questa affermazione è stata fatta successivamente alla emanazione della* delibera *di Giunta, per mera solidarietà a chi ha maggiori necessità.*                               
 
-**Ribadiamo che questa decisione è unicamente da imputare alla giunta**. Peraltro reputiamo che ci siano questioni di maggior interesse quali la distribuzione delle **donazioni ricevute dalla Regione per le auto** (5.000 per le auto demolite da euro 5- 3.000 per auto demolite fino a euro 4- 2.000 per le riparazioni auto - 700 per le moto) oltre l'obbiettivo del ristoro dei danni agli immobili al 100% e con la previsione di elargire una cifra ben più importante a breve.
+**Ribadiamo che questa decisione è unicamente da imputare alla Giunta**. Peraltro reputiamo che ci siano questioni di maggior interesse quali la distribuzione delle **donazioni ricevute dalla Regione per le auto** (5.000 per le auto demolite da euro 5- 3.000 per auto demolite fino a euro 4- 2.000 per le riparazioni auto - 700 per le moto) oltre l'obbiettivo del ristoro dei danni agli immobili al 100% e con la previsione di elargire una cifra ben più importante a breve.
