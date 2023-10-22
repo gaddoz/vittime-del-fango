@@ -7,7 +7,7 @@ description: Gli argomenti trattati, dalla messa in sicurezza delle aree a
   e gli assessori Colla, Calvano, Corsini e Mammi
 author: "Aride Missiroli "
 date: 2023-10-21T19:09:37.980Z
-manual_pdf: null
+manual_pdf: https://notizie.regione.emilia-romagna.it/comunicati/2023/ottobre/alluvione-il-presidente-bonaccini-incontra-in-regione-una-ventina-di-comitati-di-cittadini-dei-territori-colpiti-201cvogliamo-condividere-ogni-passo-della-ricostruzione-ribadito-il-massimo-impegno-affinche-sia-rimborsato-il-100-dei-danni-pronti-a/incontro_comitati_alluvionati_gli_assessori.jpeg
 manual_pdf2: null
 manual_pdf5: null
 tags:
@@ -19,6 +19,14 @@ tags:
 # Alluvione. Il presidente Bonaccini incontra in Regione una ventina di Comitati di cittadini dei territori colpiti: “Vogliamo condividere ogni passo della ricostruzione, ribadito il massimo impegno affinché sia rimborsato il 100% dei danni. Pronti a rivederci a cadenza regolare e già prima della fine dell’anno.
 
 Bologna - Un primo incontro tra **Regione** e una ventina di **Comitati di cittadini** nati nei territori colpiti nel maggio scorso dalla drammatica alluvione. Un confronto sull'andamento della ricostruzione e sui problemi e le esigenze di chi abita in quelle zone. Nel pomeriggio di ieri, il presidente **Stefano Bonaccini** ha ricevuto una delegazione dei comitati in viale Aldo Moro, a Bologna, insieme alla vicepresidente con delega alla Protezione civile e Ambiente, **Irene Priolo** e gli assessori **Vincenzo Colla** (Sviluppo economico e Lavoro), **Paolo Calvano** (Bilancio), **Andrea Corsini**(Infrastrutture e commercio) e **Alessio Mammi** (Agricoltura).
+
+<!--StartFragment-->
+
+![](https://notizie.regione.emilia-romagna.it/comunicati/2023/ottobre/alluvione-il-presidente-bonaccini-incontra-in-regione-una-ventina-di-comitati-di-cittadini-dei-territori-colpiti-201cvogliamo-condividere-ogni-passo-della-ricostruzione-ribadito-il-massimo-impegno-affinche-sia-rimborsato-il-100-dei-danni-pronti-a/incontro_comitati_alluvionati.jpeg)
+
+<!--EndFragment-->
+
+
 
 Questi gli argomenti trattati durante il faccia a faccia: **messa in sicurezza** urgente da frane e alluvioni di intere zone, da cui dipende la loro sopravvivenza; la necessità di garantire **supporto ai piccoli Comuni**, che soffrono di insufficienza e inadeguatezza delle risorse, e la verifica dei progetti di intervento su questo; il **cronoprogramma o la tempistica dei lavori**; protocollo e competenze per la **gestione coordinata degli interventi necessari**.
 
