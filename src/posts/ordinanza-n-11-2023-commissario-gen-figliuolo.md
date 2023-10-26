@@ -15,4 +15,4 @@ La presente ordinanza disciplina i criteri, le modalità e i termini per la dete
 
 Il presente provvedimento si applica anche alle cooperative sociali di cui all’articolo 1, comma 1, lettera b), della legge 8 novembre 1991, n. 381 recante “Disciplina delle cooperative sociali”, che svolgono attività diverse - agricole, industriali, commerciali o di servizi - finalizzate all’inserimento lavorativo di persone svantaggiate. Sono considerate tra queste anche le cooperative miste, ancorché svolgano anche attività di cui al predetto articolo 1, comma 2.
 
-https://drive.google.com/file/d/18jqZ6yBFHiuNaiNO3yuf2RVLRRbNJ3aG/view?usp=drivesdk
+<https://drive.google.com/file/d/18jqZ6yBFHiuNaiNO3yuf2RVLRRbNJ3aG/view?usp=drivesdk>
