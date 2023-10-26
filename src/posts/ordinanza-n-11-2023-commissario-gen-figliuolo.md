@@ -2,11 +2,8 @@
 title: "ORDINANZA N. 11/2023 COMMISSARIO GEN. FIGLIUOLO "
 description: La presente ordinanza disciplina i criteri, le modalità e i termini
   per la determinazione, la concessione e l’erogazione dei contributi alle
-  imprese singole o associate titolari delle attività economiche e produttive
-  ovvero agricole, con sede legale, sede operativa o unità locali, o che
-  esercitavano la propria attività lavorativa, produttiva o nei territori delle
-  regioni Emilia-Romagna, Toscana e Marche interessati dagli eventi alluvionali
-  verificatisi a far data dal 1° maggio 2023
+  imprese colpite dagli eventi alluvionali verificatisi a far data dal 1° maggio
+  2023
 author: "Aride Missiroli "
 date: 2023-10-26T19:36:28.263Z
 manual_pdf: null
