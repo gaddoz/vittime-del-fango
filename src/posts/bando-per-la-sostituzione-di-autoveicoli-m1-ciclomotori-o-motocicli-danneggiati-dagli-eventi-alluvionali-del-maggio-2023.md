@@ -1,7 +1,7 @@
 ---
 title: Bando per la sostituzione di autoveicoli M1, ciclomotori o motocicli
   danneggiati dagli eventi alluvionali del maggio 2023
-description: "Destinatari: Possono presentare domanda i cittadini residenti nei
+description: "Destinatari: possono presentare domanda i cittadini residenti nei
   Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna,
   Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o
   motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti
@@ -43,7 +43,7 @@ tags:
 
   Risposte alle domande più frequenti pervenute sul bando.
 
-**Destinatari :** Possono presentare domanda i cittadini residenti nei Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate piogge verificatesi nel mese di maggio 2023.
+**Destinatari -** Possono presentare domanda i cittadini residenti nei Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate piogge verificatesi nel mese di maggio 2023.
 
 I mezzi danneggiati possono essere sostituiti con
 
