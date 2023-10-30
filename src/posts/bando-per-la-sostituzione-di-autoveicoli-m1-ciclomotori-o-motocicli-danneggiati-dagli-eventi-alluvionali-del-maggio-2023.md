@@ -43,7 +43,7 @@ tags:
 
   Risposte alle domande più frequenti pervenute sul bando.
 
-**Destinatari**Possono presentare domanda i cittadini residenti nei Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate piogge verificatesi nel mese di maggio 2023.
+**Destinatari :** Possono presentare domanda i cittadini residenti nei Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna, Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate piogge verificatesi nel mese di maggio 2023.
 
 I mezzi danneggiati possono essere sostituiti con
 
@@ -54,7 +54,7 @@ I mezzi danneggiati possono essere sostituiti con
 È **ammessa la sostituzione** dei veicoli danneggiati **anche con mezzi usati o “Km 0”**.\
 Il bando ammette la **rottamazione** o la **vendita** ad un concessionario o un autodemolitore dei mezzi danneggiati dagli eventi alluvionali per la loro sostituzione oppure la loro **riparazione**.
 
-**Esclusioni**Sono esclusi dal contributo le autovetture ad uso pubblico (esempio taxi, NCC) o veicoli che, anche se intestati a persone fisiche, sono strumentali ad una attività di impresa (esempio imprese individuali).
+**Esclusioni -** Sono esclusi dal contributo le autovetture ad uso pubblico (esempio taxi, NCC) o veicoli che, anche se intestati a persone fisiche, sono strumentali ad una attività di impresa (esempio imprese individuali).
 
 **Risorse disponibili**\
 La Regione Emilia-Romagna ha stanziato per questa iniziativa 27.000.000 di Euro.
