@@ -1,20 +1,12 @@
 ---
 title: Regione Emilia-Romagna, Bando per la sostituzione di autoveicoli M1,
   ciclomotori o motocicli danneggiati dagli eventi alluvionali del maggio 2023
-description: Modalità di partecipazione - Le domande potranno essere presentate
-  a partire **dalle ore 10:00 del 31 ottobre 2023 fino ad esaurimento delle
-  risorse disponibili** e comunque **entro le ore 23:59 del 31 dicembre 2024
-  esclusivamente attraverso il modulo informatico** predisposto dalla Regione.\
-  La data di chiusura potrà essere anticipata in caso di esaurimento delle
-  risorse finanziarie disponibili.\ L'applicativo informatico è l'**unica
-  modalità ammessa per la presentazione della domanda,** pertanto non saranno
-  accettate domande inviate attraverso altri mezzi di trasmissione quali, a solo
-  titolo di esempio, lettere, raccomandate, email (anche se tramite posta
-  certificata), fax ecc.\ Per accedere all’applicativo occorre essere in
-  possesso delle
-  credenziali [SPID ](https://www.spid.gov.it/)/ [CIE ](https://www.cartaidentita.interno.gov.it/)/ [CNS](https://id.infocamere.it/documentazione/it/cns.html).\
-  È **ammessa la presentazione di una sola richiesta** da parte dello stesso
-  soggetto o nucleo familiare.
+description: Le domande potranno essere presentate a partire dalle ore 10:00 del
+  31 ottobre 2023 fino ad esaurimento delle risorse disponibili** e
+  comunque **entro le ore 23:59 del 31 dicembre 2024 esclusivamente attraverso
+  il modulo informatico predisposto dalla Regione. La data di chiusura potrà
+  essere anticipata in caso di esaurimento delle risorse finanziarie
+  disponibili.
 author: Aride Missiroli
 date: 2023-10-30T17:37:46.245Z
 manual_pdf: https://ambiente.regione.emilia-romagna.it/it/bandi/bandi-2023/bandoveicolialluvionati
