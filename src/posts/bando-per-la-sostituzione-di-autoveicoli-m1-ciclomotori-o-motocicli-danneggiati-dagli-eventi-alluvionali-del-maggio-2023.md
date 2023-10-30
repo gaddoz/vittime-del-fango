@@ -9,6 +9,7 @@ description: "Destinatari: possono presentare domanda i cittadini residenti nei
   piogge verificatesi nel mese di maggio 2023..."
 author: Aride Missiroli
 date: 2023-10-30T17:37:46.245Z
+manual_pdf: https://ambiente.regione.emilia-romagna.it/it/bandi/bandi-2023/bandoveicolialluvionati
 tags:
   - post
   - featured
