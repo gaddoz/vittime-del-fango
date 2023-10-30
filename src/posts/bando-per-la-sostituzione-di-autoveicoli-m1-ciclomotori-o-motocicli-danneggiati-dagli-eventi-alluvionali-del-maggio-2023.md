@@ -6,17 +6,7 @@ description: "Destinatari: possono presentare domanda i cittadini residenti nei
   Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o
   motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti
   all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate
-  piogge verificatesi nel mese di maggio 2023.  I mezzi danneggiati possono
-  essere sostituiti con  * veicoli a motore termico alimentato a benzina,
-  diesel, benzina/gpl, benzina/metano ecc. * veicoli ibridi (*plug-in hybrid* –
-  PHEV o *non plug-in*) * veicoli *full elettric*.  È **ammessa la
-  sostituzione** dei veicoli danneggiati **anche con mezzi usati o “Km 0”**.\\
-  Il bando ammette la **rottamazione** o la **vendita** ad un concessionario o
-  un autodemolitore dei mezzi danneggiati dagli eventi alluvionali per la loro
-  sostituzione oppure la loro **riparazione**.  **Esclusioni**Sono esclusi dal
-  contributo le autovetture ad uso pubblico (esempio taxi, NCC) o veicoli che,
-  anche se intestati a persone fisiche, sono strumentali ad una attività di
-  impresa (esempio imprese individuali)"
+  piogge verificatesi nel mese di maggio 2023."
 author: Aride Missiroli
 date: 2023-10-30T17:37:46.245Z
 tags:
