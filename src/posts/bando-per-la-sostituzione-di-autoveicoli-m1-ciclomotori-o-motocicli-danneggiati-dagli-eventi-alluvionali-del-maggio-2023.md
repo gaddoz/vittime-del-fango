@@ -1,5 +1,5 @@
 ---
-title: Regione Emilia Romagna - Bando per la sostituzione di autoveicoli M1,
+title: Regione Emilia-Romagna - Bando per la sostituzione di autoveicoli M1,
   ciclomotori o motocicli danneggiati dagli eventi alluvionali del maggio 2023
 description: "Destinatari: possono presentare domanda i cittadini residenti nei
   Comuni delle province di Reggio Emilia, Modena, Bologna, Ferrara, Ravenna,
