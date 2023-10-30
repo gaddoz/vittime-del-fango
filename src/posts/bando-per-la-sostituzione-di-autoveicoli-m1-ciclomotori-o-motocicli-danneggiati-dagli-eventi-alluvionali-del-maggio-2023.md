@@ -6,7 +6,7 @@ description: "Destinatari: possono presentare domanda i cittadini residenti nei
   Forlì-Cesena e Rimini proprietari di un veicolo di categoria M1, ciclomotore o
   motociclo, ad esclusivo uso privato, danneggiato dagli allagamenti dovuti
   all’esondazione dei corsi d’acqua in conseguenza delle forti e prolungate
-  piogge verificatesi nel mese di maggio 2023."
+  piogge verificatesi nel mese di maggio 2023..."
 author: Aride Missiroli
 date: 2023-10-30T17:37:46.245Z
 tags:
