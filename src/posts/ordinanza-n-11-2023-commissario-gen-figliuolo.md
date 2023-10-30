@@ -1,5 +1,5 @@
 ---
-title: "ORDINANZA N. 11/2023 COMMISSARIO GEN. FIGLIUOLO "
+title: Ordinanza n. 11/2023 Commissario Gen. Figliuolo
 description: La presente ordinanza disciplina i criteri, le modalità e i termini
   per la determinazione, la concessione e l’erogazione dei contributi alle
   imprese colpite dagli eventi alluvionali verificatisi a far data dal 1° maggio
