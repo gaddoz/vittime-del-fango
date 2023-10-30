@@ -7,6 +7,7 @@ description: La presente ordinanza disciplina i criteri, le modalità e i termin
 author: "Aride Missiroli "
 date: 2023-10-26T19:36:28.263Z
 manual_pdf: https://commissari.gov.it/media/oxtc5p2g/ordinanza-11-2023-completa_firmato.pdf
+manual_pdf2: https://commissari.gov.it/alluvionecentronord2023/normativa/ordinanze/elenco-ordinanze/
 tags:
   - post
   - featured
