@@ -16,7 +16,5 @@ tags:
   - post
   - featured
 ---
-Il comitato unitario vittime del fango 
-(www.vittimedelfango.org)
-segnala che per il giorno 16 novembre (ore 18.00 presso Sala del consiglio provinciale di Forlì-Cesena) è stato organizzato un evento dal titolo “*Il dovere della memoria - Forlì: la sua alluvione, le sue vittime i suoi volontari*”, evento che vuole commemorare le vittime e ringraziare i volontari intervenuti, ma che vorrà continuare a sottolineare che "non tutto è andato bene" ed occorre sempre grande impegno da parte delle istituzioni, onde mettere in sicurezza il territorio e provvedere ai ristori nel migliore dei modi.
+Il comitato unitario vittime del fango segnala che per il giorno 16 novembre (ore 18.00 presso Sala del consiglio provinciale di Forlì-Cesena) è stato organizzato un evento dal titolo “*Il dovere della memoria - Forlì: la sua alluvione, le sue vittime i suoi volontari*”, evento che vuole commemorare le vittime e ringraziare i volontari intervenuti, ma che vorrà continuare a sottolineare che "non tutto è andato bene" ed occorre sempre grande impegno da parte delle istituzioni, onde mettere in sicurezza il territorio e provvedere ai ristori nel migliore dei modi.
 Inoltre comunico che a breve sarà pubblicato sul nostro sito un aggiornamento in merito all’attività che il comitato ha svolto e sta svolgendo con i comitati riuniti per portare avanti congiuntamente le richieste di tutti gli alluvionati sia in merito ai ristori sia in merito alla tutela del territorio e dei suoi cittadini.
