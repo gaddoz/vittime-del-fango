@@ -2,13 +2,14 @@
 title: "IL DOVERE DELLA MEMORIA FORLI': LA SUA ALLUVIONE, LE SUE VITTIME, I SUOI
   VOLONTARI"
 description: 'Il Comitato Unitario Vittime del Fango Forlì segnala che per il
-  giorno 16 novembre (ore 18.00 presso Sala del consiglio provinciale di
-  Forlì-Cesena) è stato organizzato un evento dal titolo “*Il dovere della
-  memoria - Forlì: la sua alluvione, le sue vittime i suoi volontari*”, evento
-  che vuole commemorare le vittime e ringraziare i volontari intervenuti, ma che
-  vorrà continuare a sottolineare che "non tutto è andato bene" ed occorre
-  sempre grande impegno da parte delle istituzioni, onde mettere in sicurezza il
-  territorio e provvedere ai ristori nel migliore dei modi.'
+  giorno Giovedì 16 novembre 2023 alle ore 18.00 presso la Sala del consiglio
+  provinciale di Forlì-Cesena è stato organizzato un evento dal titolo “IL
+  DOVERE DELLA MEMORIA - FORLI’: LA SUA ALLUVIONE, LE SUE VITTIME, I SUOI
+  VOLONTARI”, evento che vuole commemorare le vittime e ringraziare i volontari
+  intervenuti, ma che vorrà continuare a sottolineare che "non tutto è andato
+  bene" ed occorre sempre grande impegno da parte delle istituzioni, onde
+  mettere in sicurezza il territorio e provvedere ai ristori nel migliore dei
+  modi.'
 author: "Aride Missiroli "
 date: 2023-11-12T22:00:20.331Z
 tags:
