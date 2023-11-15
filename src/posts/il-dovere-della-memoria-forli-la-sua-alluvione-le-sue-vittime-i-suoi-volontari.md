@@ -11,7 +11,7 @@ description: 'Il Comitato Unitario Vittime del Fango Forlì segnala che per il
   mettere in sicurezza il territorio e provvedere ai ristori nel migliore dei
   modi.'
 author: "Aride Missiroli "
-date: 2023-11-15T11:00:00.000Z
+date: 2023-11-15T08:00:00.000Z
 tags:
   - post
   - featured
