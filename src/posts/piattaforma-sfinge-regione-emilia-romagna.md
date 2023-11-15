@@ -1,5 +1,6 @@
 ---
-title: Piattaforma Sfinge Regione Emilia-Romagna
+title: Piattaforma Sfinge Regione Emilia-Romagna (attiva dalle ore 15:00 del 15
+  novembre 2023)
 description: Sfinge Alluvione 2023 è il portale tramite il quale le imprese e le
   persone fisiche interessati dagli eventi alluvionali verificatisi a far data
   dal 1° maggio 2023 nel territorio della Regione Emilia-Romagna, possono
