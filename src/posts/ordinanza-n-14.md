@@ -1,5 +1,5 @@
 ---
-title: ORDINANZA N. 14/2023 (ristori a persone fisiche)
+title: ORDINANZA N. 14/2023 (ristori alluvione a persone fisiche)
 description: La presente ordinanza disciplina i criteri, le modalità ed i
   termini per la determinazione, la concessione e la erogazione dei contributi
   agli immobili di edilizia abitativa e relative pertinenze situate, nei
