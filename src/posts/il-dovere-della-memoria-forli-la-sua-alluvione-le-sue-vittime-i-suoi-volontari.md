@@ -12,6 +12,7 @@ description: 'Il Comitato Unitario Vittime del Fango Forlì segnala che per il
   modi.'
 author: "Aride Missiroli "
 date: 2023-11-15T08:00:00.000Z
+manual_pdf: https://fb.watch/opvPB4aZuf/
 tags:
   - post
   - featured
