@@ -1,5 +1,6 @@
 ---
-title: "IL DOVERE DELLA MEMORIA: "
+title: "IL DOVERE DELLA MEMORIA FORLI': LA SUA ALLUVIONE, LE SUE VITTIME, I SUOI
+  VOLONTARI"
 description: Intervento Alessandra Bucchi e video evento
 author: "Aride Missiroli "
 date: 2023-11-16T20:30:00.000Z
