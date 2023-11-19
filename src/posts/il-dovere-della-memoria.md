@@ -4,6 +4,7 @@ title: "IL DOVERE DELLA MEMORIA FORLI': LA SUA ALLUVIONE, LE SUE VITTIME, I SUOI
 description: Intervento Alessandra Bucchi e video evento
 author: "Aride Missiroli "
 date: 2023-11-16T20:30:00.000Z
+manual_pdf: ""
 tags:
   - post
   - featured
@@ -50,3 +51,7 @@ Fare memoria di quei momenti terribili, ma anche commuoventi, deve servire a met
 Auguro a tutti una buona serata, credo che sarà particolarmente emozionante per tutti noi.
 
 Un ringraziamento particolare va a tutta la mia squadra del comitato unitario che si è messa in gioco, lavorano tantissimo per poter raggiungere gli obiettivi che ci siamo posti a favore di tutti gli alluvionati e che continueremo a porci.
+
+***IL VIDEO DELLA GIORNATA***
+
+<https://www.facebook.com/vittimedelfango/videos/1052310532557571/>
