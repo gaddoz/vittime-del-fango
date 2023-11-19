@@ -9,6 +9,8 @@ tags:
   - post
   - featured
 ---
+![](/static/img/img_4483.jpeg)
+
 **Alessandra Bucchi, presidente COMITATO UNITARIO VITTIME DEL FANGO FORLÌ**
 
 *Intervento di apertura della giornata* 
