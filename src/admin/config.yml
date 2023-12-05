@@ -34,7 +34,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["comunicato-stampa", "rassegna-stampa", "post", "featured", "nascosto", ]
+        options: ["comunicato-stampa", "rassegna-stampa", "post", "featured", "nascosto", "verbali-direttivo"]
   - label: "Settings"
     name: "settings"
     editor:
