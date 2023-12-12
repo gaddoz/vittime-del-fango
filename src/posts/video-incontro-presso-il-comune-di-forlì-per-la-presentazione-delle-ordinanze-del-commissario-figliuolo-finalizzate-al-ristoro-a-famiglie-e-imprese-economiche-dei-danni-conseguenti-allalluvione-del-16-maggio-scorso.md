@@ -1,9 +1,9 @@
 ---
-title: Video incontro presso il Comune di Forlì per la presentazione delle
+title: VIDEO INCONTRO PRESSO IL COMUNE DI FORLI' PER LA PRESENTAZIONE DELLE
+  ORDINANZE DEL COMMISSARIO FIGLIUOLO
+description: Video incontro presso il Comune di Forlì per la presentazione delle
   Ordinanze del Commissario Figliuolo, finalizzate al ristoro a famiglie e
   imprese economiche dei danni conseguenti all'alluvione del 16 maggio scorso.
-description: VIDEO INCONTRO PRESSO IL COMUNE DI FORLI' PER LA PRESENTAZIONE
-  DELLE ORDINANZE DEL COMMISSARIO FIGLIUOLO
 author: Aride Missiroli
 date: 2023-12-12T17:25:05.477Z
 manual_pdf: https://www.youtube.com/live/eKaT4GuA-JA?si=8KmcAobURGD1-Y8l
