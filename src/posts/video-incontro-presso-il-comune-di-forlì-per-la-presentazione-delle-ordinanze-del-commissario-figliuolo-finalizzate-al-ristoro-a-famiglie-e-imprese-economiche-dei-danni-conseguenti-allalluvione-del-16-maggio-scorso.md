@@ -13,6 +13,6 @@ tags:
 ---
 <!--StartFragment-->
 
-Qui puoi rivedere l’incontro di presentazione delle ordinanze finalizzate al ristoro a famiglie e imprese economiche dei danni conseguenti all'alluvione del 16 maggio scorso. L'incontro è rivolto ai tecnici, alle associazioni di categoria, alle associazioni territoriali, ai rappresentanti dei comitati di quartiere, alla cittadinanza ed agli iscritti agli ordini professionali coinvolti nella predisposizione dele domande di ristoro. Introduce i lavori il Generale Domenico Ciotti, Direttore Operativo Struttura Commissario Straordinario
+Qui puoi rivedere l’incontro di presentazione delle ordinanze finalizzate al ristoro a famiglie e imprese economiche dei danni conseguenti all'alluvione del 16 maggio scorso. L'incontro è rivolto ai tecnici, alle associazioni di categoria, alle associazioni territoriali, ai rappresentanti dei comitati di quartiere, alla cittadinanza ed agli iscritti agli ordini professionali coinvolti nella predisposizione delle domande di ristoro. Introduce i lavori il Generale Domenico Ciotti, Direttore Operativo Struttura Commissario Straordinario.
 
 <!--EndFragment-->
