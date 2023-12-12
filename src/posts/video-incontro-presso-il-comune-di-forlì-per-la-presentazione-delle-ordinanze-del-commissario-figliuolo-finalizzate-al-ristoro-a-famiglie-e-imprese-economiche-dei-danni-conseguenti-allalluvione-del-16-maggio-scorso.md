@@ -1,6 +1,6 @@
 ---
-title: VIDEO INCONTRO PRESSO IL COMUNE DI FORLI' PER LA PRESENTAZIONE DELLE
-  ORDINANZE DEL COMMISSARIO FIGLIUOLO
+title: VIDEO INCONTRO DEL 12 DICEMBRE 2023 PRESSO IL COMUNE DI FORLI' PER LA
+  PRESENTAZIONE DELLE ORDINANZE DEL COMMISSARIO FIGLIUOLO
 description: Video incontro presso il Comune di Forlì per la presentazione delle
   Ordinanze del Commissario Figliuolo, finalizzate al ristoro a famiglie e
   imprese economiche dei danni conseguenti all'alluvione del 16 maggio scorso.
