@@ -1,5 +1,6 @@
 ---
-title: "Convocazione Assemblea Fondatori Comitato Unitario Vittime del Fango Forlì "
+title: Nomina consigliere in sostituzione di consigliera dimissionaria -
+  Richiesta candidature
 description: "Oggetto: nomina consigliere in sostituzione di consigliera dimissionaria"
 author: Aride Missiroli
 date: 2024-01-25T11:45:37.189Z
