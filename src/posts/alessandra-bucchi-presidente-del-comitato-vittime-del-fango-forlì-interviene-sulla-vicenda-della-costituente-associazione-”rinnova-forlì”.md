@@ -11,9 +11,7 @@ tags:
   - post
   - featured
 ---
-![](/static/img/img_4823.jpeg)
-
-
+![](/static/img/img_4824.jpeg)
 
 A seguito di quanto emerso dai giornali, **comunico che ho partecipato ad un incontro per l’eventuale costituzione di una associazione culturale/politica ma, ad oggi, non si è deciso di formare alcuna lista politica né tantomeno si è valutata alcuna candidatura né l’appoggio ad alcun candidato sindaco**.
 
