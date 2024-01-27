@@ -1,6 +1,6 @@
 ---
-title: Alessandra Bucchi, presidente del Comitato Vittime del Fango Forlì,
-  interviene sulla vicenda della costituenda associazione ”Rinnova Forlì”
+title: Alessandra Bucchi, presidente del Comitato Unitario Vittime del Fango
+  Forlì, interviene sulla vicenda della costituenda associazione ”Rinnova Forlì”
 description: Comunico che ho partecipato ad un incontro per l’eventuale
   costituzione di una associazione culturale/politica ma, ad oggi, non si è
   deciso di formare alcuna lista politica né tantomeno si è valutata alcuna
