@@ -1,5 +1,5 @@
 ---
-title: "Convocazione assemblea dei Fondatori e dei Sostenitori "
+title: Convocazione assemblea dei Fondatori e dei Sostenitori (DIRETTA FACEBOOK)
 description: "Assemblea dei Fondatori e dei Sostenitori presso il Circolo
   Rivalta di Viale Bologna 250, Giovedì 01 febbraio 2024 ore 20:30 "
 author: Aride Missiroli
