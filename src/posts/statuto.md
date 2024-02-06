@@ -1,6 +1,7 @@
 ---
-title: Statuto (modificato dall’assemblea in data 01 febbraio 2024)
-description: Statuto comitato unitario vittime del fango
+title: "Statuto "
+description: Statuto comitato unitario vittime del fango (modificato
+  dall’assemblea in data 01 febbraio 2024)
 author: comitato unitario vittime del fango
 date: 2024-02-01T22:00:33.555Z
 tags:
