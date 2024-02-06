@@ -7,7 +7,7 @@ date: 2024-02-01T22:00:33.555Z
 tags:
   - nascosto
 ---
-**STATUTO**
+**STATUTO** (modificato dall’assemblea in data 01 febbraio 2024)
 
 **COMITATO UNITARIO VITTIME DEL FANGO FORLI’**
 
