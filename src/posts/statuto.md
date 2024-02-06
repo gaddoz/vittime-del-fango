@@ -1,5 +1,5 @@
 ---
-title: Statuto
+title: Statuto (modificato dall’assemblea in data 01 febbraio 2024)
 description: Statuto comitato unitario vittime del fango
 author: comitato unitario vittime del fango
 date: 2023-08-01T19:33:33.555Z
@@ -92,7 +92,7 @@ Le decisioni dell'Assemblea sono adottate a maggioranza dei presenti, a norma di
 
 **Art. 7 – Composizione e funzione del Consiglio Direttivo**
 
-Il Consiglio Direttivo è formato da un numero di consiglieri pari a 5 o 7, dei quali preferibilmente almeno uno per ogni quartiere sopra indicato, individuati tra tutti i promotori. Il Consiglio è l'organo di gestione del Comitato medesimo, garantendo a tal fine la massima collaborazione al Presidente nelle attività di informazione, promozione, gestione e coordinamento del Comitato.
+Il Consiglio Direttivo è formato da un numero di consiglieri pari a 5 o 7, dei quali preferibilmente almeno uno per ogni quartiere sopra indicato, individuati tra tutti i promotori *e i sostenitori*. Il Consiglio è l'organo di gestione del Comitato medesimo, garantendo a tal fine la massima collaborazione al Presidente nelle attività di informazione, promozione, gestione e coordinamento del Comitato. 
 
 Non possono ricoprire la carica di Presidente o di consigliere i componenti degli organi esecutivi e di controllo dei Comitati di Quartiere, degli Enti locali e delle Istituzioni provinciali, regionali e nazionali.
 
