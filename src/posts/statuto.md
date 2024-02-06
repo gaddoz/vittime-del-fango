@@ -7,7 +7,7 @@ date: 2024-02-01T22:00:33.555Z
 tags:
   - nascosto
 ---
-**STATUTO *(modificato dall’assemblea in data 01 febbraio 2024)***
+***(Statuto modificato dall’assemblea in data 01 febbraio 2024)*** 
 
 **Art 1 – Denominazione**
 
