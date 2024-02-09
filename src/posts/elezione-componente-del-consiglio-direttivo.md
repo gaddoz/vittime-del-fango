@@ -18,7 +18,7 @@ Il Consiglio direttivo è pertanto composto dalle seguenti persone:
 
 **NOVELLA CASTORI** - Vicepresidente
 
-**MICHELE FIUMI** - Portavoce
+**MICHELE FIUMI** - Consigliere
 
 **VALENTINA GRILLANDI** - Consigliere
 
