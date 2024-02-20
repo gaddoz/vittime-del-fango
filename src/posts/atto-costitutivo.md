@@ -1,5 +1,5 @@
 ---
-title: Atto Costitutivo (modificato con aggiornamento in data 08/02/2024)
+title: Atto Costitutivo
 description: Atto costitutivo comitato unitario vittime del fango
 author: comitato unitario vittime del fango
 date: 2023-08-01T19:33:33.555Z
@@ -56,7 +56,7 @@ I promotori eleggono il Presidente e i membri del Consiglio Direttivo nelle pers
 
 **MICHELE FIUMI** - Componente del Consiglio Direttivo 
 
-**RAFFAELE ZOLI** - Componente del Consiglio Direttivo
+**RAFFAELE ZOLI** - Componente del Consiglio Direttivo (*aggiornamento in data 08/02/2024*)
 
 i quali dichiarano di accettare la carica e di non trovarsi in nessuna condizione di incompatibilità prevista da legge.
 
