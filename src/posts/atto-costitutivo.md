@@ -1,10 +1,10 @@
 ---
-title: Atto Costitutivo
-description: atto costitutivo comitato unitario vittime del fango
+title: Atto Costitutivo (modificato con aggiornamento in data 08/02/2024)
+description: Atto costitutivo comitato unitario vittime del fango
 author: comitato unitario vittime del fango
 date: 2023-08-01T19:33:33.555Z
-tags: 
-    - nascosto
+tags:
+  - nascosto
 ---
 **ATTO COSTITUTIVO**
 
@@ -44,19 +44,19 @@ Sono Organi del Comitato:
 
 •      Il Vicepresidente
 
-Si dà atto che il presente Comitato unitario Vittime del Fango Forlì nasce dalla trasformazione del _Comitato Vittime del Fango quartiere Romiti_, costituito in data 03.07.2023.
+Si dà atto che il presente Comitato unitario Vittime del Fango Forlì nasce dalla trasformazione del *Comitato Vittime del Fango quartiere Romiti*, costituito in data 03.07.2023.
 
 I promotori eleggono il Presidente e i membri del Consiglio Direttivo nelle persone di:
 
-**BUCCHI ALESSANDRA**, Presidente;
+**BUCCHI ALESSANDRA** - Presidente
 
-**CASTORI NOVELLA**, Componente del Consiglio Direttivo con funzioni di Vicepresidente;
+**CASTORI NOVELLA** - Componente del Consiglio Direttivo con funzioni di Vicepresidente
 
-**FIUMI MICHELE**, Componente del Consiglio Direttivo, con funzioni di Portavoce;
+**VALENTINA GRILLANDI** - Componente del Consiglio Direttivo con funzione di Portavoce
 
-**GRILLANDI VALENTINA**, Componente del Consiglio Direttivo;
+**MICHELE FIUMI** - Componente del Consiglio Direttivo 
 
-**AVANTAGGIATO DANIELA**, Componente del Consiglio Direttivo
+**RAFFAELE ZOLI** - Componente del Consiglio Direttivo
 
 i quali dichiarano di accettare la carica e di non trovarsi in nessuna condizione di incompatibilità prevista da legge.
 
