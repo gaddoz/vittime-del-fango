@@ -18,7 +18,7 @@ tags:
 
 L'incontro pubblico avrà luogo **Giovedì 22 febbraio 2024, dalle 15:00 alle 17:30, presso il Pala Sport Comunale Villa Romiti**.
 
-L'evento è organizzato dal **Comitato Unitario Vittime del Fango Forlì**, in collaborazione con i **Comitati Riuniti** ed è ospitato al **Pala Sport Villa Romiti** del Quartiere Romiti. L’incontro ha l’obiettivo di dare supporto e risposte ai cittadini ed alle imprese che hanno subito danni a seguito degli eventi alluvionali del maggio scorso e chiarire eventuali dubbi e difficoltà nella interpretazione delle ordinanze ed in merito alle modalità operative.
+L'evento è organizzato dal **Comitato Unitario Vittime del Fango Forlì** in collaborazione con i **Comitati Riuniti** ed è ospitato al **Pala Sport Villa Romiti** del Quartiere Romiti. L’incontro ha l’obiettivo di dare supporto e risposte ai cittadini ed alle imprese che hanno subito danni a seguito degli eventi alluvionali del maggio scorso e chiarire eventuali dubbi e difficoltà nella interpretazione delle ordinanze ed in merito alle modalità operative.
 
 S﻿arà possibile seguire l'evento in **diretta Facebook** sulla pagina del Comitato Unitario Vittime del Fango Forlì.
 
