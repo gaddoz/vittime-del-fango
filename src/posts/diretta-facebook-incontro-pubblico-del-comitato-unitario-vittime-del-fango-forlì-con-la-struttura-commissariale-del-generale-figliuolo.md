@@ -1,6 +1,7 @@
 ---
-title: Diretta Facebook - Incontro pubblico del Comitato Unitario Vittime del
-  Fango Forlì con la struttura commissariale del generale Figliuolo
+title: Giovedì 22/02/2024 Diretta Facebook - Incontro pubblico del Comitato
+  Unitario Vittime del Fango Forlì con la struttura commissariale del generale
+  Figliuolo
 description: L'incontro pubblico avrà luogo Giovedì 22 febbraio 2024, dalle
   15:00 alle 17:30, presso il Pala Sport Comunale Villa Romiti un incontro
   pubblico con la struttura Commissariale, aperto ai cittadini, alle imprese e
