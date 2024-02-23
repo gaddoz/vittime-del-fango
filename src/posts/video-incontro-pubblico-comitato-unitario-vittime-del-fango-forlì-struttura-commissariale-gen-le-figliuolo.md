@@ -16,7 +16,7 @@ description: Nel pomeriggio del giorno 22 febbraio 2024, dalle h. 15.00 alle h.
   del Comitato Unitario Vittime del Fango Forlì, Alessandra Bucchi, e dal
   coordinatore dei Comitati Riuniti degli alluvionati, Enrico Piani.
 author: CUVF
-date: 2024-02-23T12:37:49.312Z
+date: 2024-02-22T21:00:49.312Z
 manual_pdf: https://youtu.be/_x_tHL9Wqac
 tags:
   - post
