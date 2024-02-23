@@ -3,19 +3,18 @@ title: VIDEO Incontro pubblico 22 febbraio 2024 Comitato Unitario Vittime del
   Fango Forlì - Struttura commissariale gen.le Figliuolo
 description: Nel pomeriggio del giorno 22 febbraio 2024, dalle h. 15.00 alle h.
   18.30 circa, il Pala Sport di Villa Romiti ha ospitato l'incontro tra la
-  **Struttura Commissariale del generale Figliuolo** e la
-  **cittadinanza**.   ***L'evento è stato organizzato dal Comitato Unitario
-  Vittime del Fango Forlì insieme ai Comitati Riuniti degli alluvionati***, con
-  la collaborazione del **quartiere Romiti** e il patrocinio del Comune di
-  Forlì, ha posto al centro del dibattito le criticità legate all'applicazione
-  delle ordinanze 11 e 14, rivolte rispettivamente alle imprese ed alle
-  famiglie, con particolare riguardo a perizie, piattaforma Sfinge,
-  ristori.   Per la struttura commissariale erano presenti il Colonnello Carlo
-  La Torre ed il Tenente Colonnello Vincenzo Martella. Erano inoltre presenti
-  tecnici ed ingegneri della società Invitalia e della Regione
-  Emilia-Romagna.   I lavori sono stati aperti dalla presidente del Comitato
-  Unitario Vittime del Fango Forlì, Alessandra Bucchi, e dal coordinatore dei
-  Comitati Riuniti degli alluvionati, Enrico Piani.
+  Struttura Commissariale del generale Figliuolo e la cittadinanza.   L'evento è
+  stato organizzato dal Comitato Unitario Vittime del Fango Forlì insieme ai
+  Comitati Riuniti degli alluvionati, con la collaborazione del quartiere Romiti
+  e il patrocinio del Comune di Forlì, ha posto al centro del dibattito le
+  criticità legate all'applicazione delle ordinanze 11 e 14, rivolte
+  rispettivamente alle imprese ed alle famiglie, con particolare riguardo a
+  perizie, piattaforma Sfinge, ristori.   Per la struttura commissariale erano
+  presenti il Colonnello Carlo La Torre ed il Tenente Colonnello Vincenzo
+  Martella. Erano inoltre presenti tecnici ed ingegneri della società Invitalia
+  e della Regione Emilia-Romagna.   I lavori sono stati aperti dalla presidente
+  del Comitato Unitario Vittime del Fango Forlì, Alessandra Bucchi, e dal
+  coordinatore dei Comitati Riuniti degli alluvionati, Enrico Piani.
 author: CUVF
 date: 2024-02-23T12:37:49.312Z
 manual_pdf: https://youtu.be/_x_tHL9Wqac
