@@ -1,6 +1,6 @@
 ---
-title: VIDEO Incontro pubblico Comitato Unitario Vittime del Fango Forlì -
-  Struttura commissariale gen.le Figliuolo
+title: VIDEO Incontro pubblico 22 febbraio 2024 Comitato Unitario Vittime del
+  Fango Forlì - Struttura commissariale gen.le Figliuolo
 description: Nel pomeriggio del giorno 22 febbraio 2024, dalle h. 15.00 alle h.
   18.30 circa, il Pala Sport di Villa Romiti ha ospitato l'incontro tra la
   **Struttura Commissariale del generale Figliuolo** e la
