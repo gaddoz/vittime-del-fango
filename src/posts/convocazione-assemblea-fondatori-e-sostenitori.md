@@ -21,7 +21,7 @@ per discutere e deliberare sul seguente ordine del giorno:
 
 1. elezione di n. 3 componenti del Consiglio direttivo;
 2. aggiornamenti sull'attività del Consiglio direttivo;
-3. varie ed eventuali.I
+3. varie ed eventuali.
 
    \
    I cittadini interessati, siano essi promotori (fondatori) o sostenitori, devono
@@ -33,9 +33,7 @@ per discutere e deliberare sul seguente ordine del giorno:
    Comitati di Quartiere, degli Enti locali e delle Istituzioni provinciali, regionali e
    nazionali.”*
 
-
    Forlì, 06.03.2024
-
 
    Il Presidente
    Alessandra Bucchi
