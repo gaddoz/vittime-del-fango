@@ -6,7 +6,7 @@ description: Ai sensi dell’art. 6 dello Statuto, è convocata l’Assemblea de
   convocazione il giorno mercoledì 20 marzo 2024 alle ore 7:30 e, se necessario,
   in seconda convocazione, il giorno Giovedì 21 marzo 2024 alle ore 20:30
 author: CUVF
-date: 2024-03-07T01:16:03.902Z
+date: 2024-03-06T22:00:00.000Z
 manual_pdf: /static/img/img_5139.jpeg
 tags:
   - post
