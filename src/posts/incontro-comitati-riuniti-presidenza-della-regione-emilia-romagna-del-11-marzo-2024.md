@@ -15,6 +15,8 @@ tags:
   - post
   - featured
 ---
+![](/static/img/img_5259.jpg)
+
 <!--StartFragment-->
 
 Proseguono gli incontri dei rappresentanti dei **Comitati Riuniti** con la **Presidenza della Regione Emilia-Romagna**, per la messa in sicurezza dei territori e la programmazione/pianificazione degli interventi da realizzare. 
