@@ -19,5 +19,6 @@ manual_pdf: /static/img/2024_02_01_verbale_assemblea.pdf
 tags:
   - post
   - featured
+  - verbali-direttivo
 ---
 .﻿.................................
