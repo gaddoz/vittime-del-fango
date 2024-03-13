@@ -1,5 +1,5 @@
 ---
-title: Verbale Assemblea 01 febbraio 2024
+title: Verbale 01 febbraio 2024 Assemblea
 description: "Il giorno 01 02 2024 alle h. 20.30 si è svolta presso la sede del
   Circolo Rivalta di Viale Bologna 250 in Forl ì la riunione dell'Assemblea dei
   cittadini promotori e sostenitori del Comitato Unitario Vittime del Fango
