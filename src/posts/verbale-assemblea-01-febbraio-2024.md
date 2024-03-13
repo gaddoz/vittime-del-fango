@@ -14,7 +14,7 @@ description: "Il giorno 01 02 2024 alle h. 20.30 si è svolta presso la sede del
   eventuali....................................................................\
   ."
 author: CUVF
-date: 2024-02-09T11:29:04.027Z
+date: 2024-02-03T11:29:04.027Z
 manual_pdf: /static/img/2024_02_01_verbale_assemblea.pdf
 tags:
   - verbali-direttivo
