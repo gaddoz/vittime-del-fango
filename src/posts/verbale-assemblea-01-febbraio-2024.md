@@ -17,8 +17,6 @@ author: CUVF
 date: 2024-02-09T11:29:04.027Z
 manual_pdf: /static/img/2024_02_01_verbale_assemblea.pdf
 tags:
-  - post
-  - featured
   - verbali-direttivo
 ---
 .﻿.................................
