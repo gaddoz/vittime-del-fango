@@ -7,3 +7,5 @@ items:
     url: /blog
   - text: Contatti e Punti Firma
     url: "/posts/contatti/"
+  - text: Verbali
+    url: /verbali/
