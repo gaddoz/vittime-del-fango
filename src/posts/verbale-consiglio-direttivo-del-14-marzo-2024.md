@@ -1,5 +1,5 @@
 ---
-title: "Verbale Consiglio Direttivo del 14 Marzo 2024 "
+title: "Verbale Consiglio Direttivo 14 Marzo 2024 "
 description: "Oggi 14.03.2024 alle ore 20.30 presso la sede del CUVF sono
   presenti: Alessandra Bucchi, Valentina Grillandi, Zoli Raffaele, Novella
   Castori (tramite collegamento da remoto), come da convocazione del 8.3.2024
