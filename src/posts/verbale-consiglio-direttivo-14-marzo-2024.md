@@ -7,7 +7,7 @@ description: "Oggi 14.03.2024 alle ore 20.30 presso la sede del CUVF sono
   componenti del consiglio direttivo all’assemblea del 21.03.2024."
 author: CUVF
 date: 2024-03-20T19:42:35.595Z
-manual_pdf: /static/img/verbale-cd-del-14-03-2024.pdf
+manual_pdf: /static/img/verbale-consiglio-direttivo-del-14-03-2024.pdf
 tags:
   - verbali-direttivo
 ---
