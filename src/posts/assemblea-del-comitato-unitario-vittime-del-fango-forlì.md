@@ -10,8 +10,8 @@ tags:
 
 In data 21 marzo 2024 alle ore 21:00, presso il Circolo Rivalta di Viale Bologna 75, l’Assemblea del CUVF ha eletto all’unanimità tre ulteriori componenti nelle seguenti persone:  
 
-**Ascolese Barbara**
+**Barbara Ascolese**
 
-**Evangelisti Stefania** 
+**Stefania Evangelisti**
 
-**Montebugnoli Alessandra**
+**Alessandra Montebugnoli**
