@@ -1,7 +1,7 @@
 ---
 title: Dal Comitato Unitario Vittime del Fango Forlì un richiamo alle Istituzioni
-description: "•\tI Comitati Riuniti hanno partecipato al Patto per il Lavoro e
-  il Clima del 22 marzo in Regione, presentando un documento sintetico ma molto
+description: "I Comitati Riuniti hanno partecipato al Patto per il Lavoro e il
+  Clima del 22 marzo in Regione, presentando un documento sintetico ma molto
   importante: anche il CUVF ha contribuito, benché impegnato in contemporanea a
   presentare ancora una volta alla Commissione consiliare, con un resoconto
   sostanzialmente analogo, le criticità del territorio e le difficoltà dei
