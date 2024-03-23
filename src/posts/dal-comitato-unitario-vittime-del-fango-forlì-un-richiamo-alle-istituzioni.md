@@ -18,8 +18,6 @@ tags:
   - post
   - featured
 ---
-**Dal Comitato Unitario Vittime del Fango Forlì (CUVF) un richiamo alle Istituzioni**
-
 ***I Comitati Riuniti hanno partecipato al Patto per il Lavoro e il Clima del 22 marzo in Regione***, presentando un documento sintetico ma molto importante: anche il CUVF ha contribuito, benché impegnato in contemporanea a presentare ancora una volta alla Commissione consiliare, con un resoconto sostanzialmente analogo, le criticità del territorio e le difficoltà dei cittadini.  ***Il CUVF ha continuamente cercato la collaborazione e il dialogo con tutte le Istituzioni preposte***, ***effettuando riunioni online e in presenza in Regione e nelle sedi di volta in volta concordate***; tra l'altro, ***ha recentemente allargato il proprio Direttivo a 7 componenti***, proprio per fronteggiare i molteplici impegni con autonomia e diverse competenze e sensibilità.
 
 Occorre ribadire in ogni sede, infatti, che ***solo un atteggiamento miope o poco responsabile potrebbe derubricare a passata emergenza ciò che è accaduto quasi un anno fa***: non solo la Romagna è stata devastata con danni di entità e persistenza ancor oggi solo parzialmente quantificabili, non solo gli alluvionati sono ancora sottoposti alla tensione di un recupero, complesso e snervante, di ciò che è stato perduto o danneggiato, ma gli interrogativi sul ripensamento della gestione ambientale, della mitigazione e dell'adattamento ai fenomeni climatici di cui ci siamo tutti resi conto impongono  a tutte le Istituzioni di agire con atteggiamenti molto più incisivi ed ampi di quelli finora messi in campo.
