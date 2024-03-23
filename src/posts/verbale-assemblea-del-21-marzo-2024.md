@@ -9,8 +9,7 @@ description: "Il giorno 21-03-2024 alle h. 20.30 si è svolta presso la sede del
 author: CUVF
 date: 2024-03-23T22:01:51.036Z
 tags:
-  - post
-  - featured
+  - verbali-direttivo
 ---
 Il giorno 21-03-2024 alle h. 20.30 si è svolta presso la sede del Circolo Rivalta di Viale Bologna 250 in Forli la riunione dell'Assemblea dei cittadini promotori e sostenitori del Comitato Unitario Vittime del Fango Forlì, con il seguente ordine del giorno:
 
