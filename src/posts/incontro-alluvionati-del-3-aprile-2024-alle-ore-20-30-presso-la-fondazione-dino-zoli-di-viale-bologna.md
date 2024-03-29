@@ -1,6 +1,6 @@
 ---
-title: Incontro alluvionati del 3 aprile 2024 alle ore 20:30, Presso la
-  fondazione Dino Zoli di Viale Bologna
+title: Incontro alluvionati del 3 aprile 2024 alle ore 20:30, presso la
+  fondazione Dino Zoli in Viale Bologna 288
 description: Hai vissuto la terribile esperienza dell’Alluvione a Maggio
   2023?  Hai partecipato alla ricostruzione come volontario?
 author: CUVF
